@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="service.OperationServiceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-03-01T17:01:25" hostname="DESKTOP-6NKE8PL" time="0.015">
+  <properties/>
+  <testcase name="should withdrawal an amount on an account()" classname="service.OperationServiceTest" time="0.013"/>
+  <testcase name="should depose an amount on an account()" classname="service.OperationServiceTest" time="0.0"/>
+  <testcase name="should return all existing operations()" classname="service.OperationServiceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
