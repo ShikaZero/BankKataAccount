@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="transactionrecord.RecordTransactionTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-03-30T13:36:51" hostname="DESKTOP-6NKE8PL" time="0.027">
+  <properties/>
+  <testcase name="should retrieve 2 operations()" classname="transactionrecord.RecordTransactionTest" time="0.018"/>
+  <testcase name="should print 2 operations with 2 differents operations types()" classname="transactionrecord.RecordTransactionTest" time="0.008"/>
+  <system-out><![CDATA[[Operation(balance=1200, amount=300, transactionDate=2022-03-30T13:36:51.911894600Z, operationType=deposit), Operation(balance=1500, amount=200, transactionDate=2022-03-30T13:36:51.911894600Z, operationType=withdraw)]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
